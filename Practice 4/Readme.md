@@ -40,6 +40,10 @@ X_data[random_mask] = -1.0
 
 ## Результат роботи:
 
-![](task_files/Result 2.png)
+![](task_files/Result1.png)
 
-![](task_files/Result 1.png)
+P.S. Warning - це приколи Tenserflow, він ні на що не впливає.
+
+![](task_files/Result2.png)
+
+

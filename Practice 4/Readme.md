@@ -40,4 +40,6 @@ X_data[random_mask] = -1.0
 
 ## Результат роботи:
 
-![](task_files/Result.png)
+![](task_files/Result 2.png)
+
+![](task_files/Result 1.png)

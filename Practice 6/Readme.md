@@ -38,4 +38,8 @@
 
 ![](task_files/Kettle_plot.png)
 
+### Карта магнітного поля приміщення
+
+![](task_files/Room_map.png)
+
 
